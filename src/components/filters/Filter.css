@@ -1,0 +1,21 @@
+
+.filters {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid lightgray;
+    border-radius: 12px;
+    background-color: white;
+    padding: 15px;
+}
+
+.filters__item {
+    display: flex;
+    align-self: start;
+    align-items: center;
+    cursor: pointer;
+    color: gray;
+}
+
+.filters__item:hover {
+    color: dimgray;
+}

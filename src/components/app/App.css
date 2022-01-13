@@ -1,0 +1,17 @@
+.app-wrapper {
+    height: 100vh;
+    background-color: whitesmoke;
+}
+
+.app {
+    display: grid;
+    align-items: flex-start;
+    grid-template-columns: 15% 1fr;
+    gap: 50px;
+}
+
+.tickets {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}

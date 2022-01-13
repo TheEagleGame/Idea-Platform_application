@@ -1,0 +1,38 @@
+[
+  {
+    "image": "./assets/images/turkish_airline_logo.png",
+    "price": "19000 Р",
+    "arrivalsInfo": {
+      "city": "Владивосток",
+      "cityCode": "VLD",
+      "date": "2021-08-09T10:31:42"
+    },
+    "departureInfo": {
+      "city": "Москва",
+      "cityCode": "MSC",
+      "date": "2021-08-09T11:31:42"
+    },
+    "transfers": {
+      "count": "2",
+      "text": "пересадки"
+    }
+  },
+  {
+    "image": "./assets/images/aeroflot.png",
+    "price": "21002 Р",
+    "arrivalsInfo": {
+      "city": "Москва",
+      "cityCode": "MSC",
+      "date": "2021-08-09T19:31:42"
+    },
+    "departureInfo": {
+      "city": "Санкт-Петербург",
+      "cityCode": "SPB",
+      "date": "2021-08-09T13:31:42"
+    },
+    "transfers": {
+      "count": "3",
+      "text": "пересадки"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+.button {
+    background-color: orange;
+    border-radius: 12px;
+    padding: 10px 20px;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+
+    transition: all 0.2s ease-in-out;
+}
+
+.button:hover {
+    background-color: darkorange;
+}
